@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1073693545970",
+    "project_id": "waco---test",
+    "storage_bucket": "waco---test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073693545970:android:327000900034c466fa476b",
+        "android_client_info": {
+          "package_name": "com.waco.crud_productos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073693545970-cs5la8ghs83hafvkb45j75fq569so764.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waco.crud_productos",
+            "certificate_hash": "528697d4df8df41c2b9801a322cab2734b0020fc"
+          }
+        },
+        {
+          "client_id": "1073693545970-30bkl4qka8126tlqltfalat92d491r0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK0beM2QHvtSsn7un23ErYn67FmNMrHFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073693545970-30bkl4qka8126tlqltfalat92d491r0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
